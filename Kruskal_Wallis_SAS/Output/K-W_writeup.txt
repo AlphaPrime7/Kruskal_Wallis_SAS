@@ -1,0 +1,2 @@
+writeup:
+The test revealed that the median plant growth was not the same (H = 6.204, p = 0.045) among the three fertilizers. That is, there was a statistically significant difference in median plant growth among two or more of the fertilizers.
